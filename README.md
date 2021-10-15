@@ -9,5 +9,5 @@ How to use:<br/>
 <br/>
 <br/>
 If you want to support me here's my BTC wallet adress:<br/>
-    ```*37NCrULVcms57V9ExzWkfN3LTPS9Rzftcd*```<br/>
+    ```37NCrULVcms57V9ExzWkfN3LTPS9Rzftcd```<br/>
 
