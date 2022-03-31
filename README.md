@@ -8,6 +8,9 @@ How to use:<br/>
     4. Run the script from the command prompt or terminal using '```python run.py```'<br/>
 <br/>
 <br/>
-If you want to support me here's my BTC wallet adress:<br/>
+
+### Buy me a coffee!
+</br>
+If you want to support this and my future projects here's my BTC wallet adress:<br/>
     ```37NCrULVcms57V9ExzWkfN3LTPS9Rzftcd```<br/>
 
