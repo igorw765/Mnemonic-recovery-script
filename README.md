@@ -1,4 +1,4 @@
-﻿A simple script to recover lost mnemonic words.<br/>
+A simple script to recover lost mnemonic words.<br/>
 Works with Bitcoin Chia Etherum DogeCoin and much more!<br/>
 <br/>
 How to use:<br/>
@@ -11,6 +11,6 @@ How to use:<br/>
 
 ### Buy me a coffee!
 </br>
-If you want to support this and my future projects here's my BTC wallet adress:<br/>
-    ```37NCrULVcms57V9ExzWkfN3LTPS9Rzftcd```<br/>
+If you want to support this and my future projects here's my BTC wallet adress:</br>
+37NCrULVcms57V9ExzWkfN3LTPS9Rzftcd
 
